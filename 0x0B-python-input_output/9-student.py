@@ -21,6 +21,3 @@ class Student:
         """Get a dictionary representation of the Student."""
         return self.
 
-
-0x0B-python-input_output/10-student.py
-
